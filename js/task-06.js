@@ -12,5 +12,3 @@ function onInputBlur (event) {
 	else {textInput.classList.remove('valid')
 	    textInput.classList.add('invalid')}
 }
-
-console.log();
